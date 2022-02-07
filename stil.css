@@ -1,21 +1,25 @@
 #texts{
 
     margin-left: 1200px;
-
+color: wheat;
 }
 #icon{
    margin-left: 1200px;
+   
+   color: white;
 }
 #icons{
     margin-left: 1200px;
-
-
-
-
+    color: white;
 }
 #wite{
     margin-left: 1200px;
+    color: white;
 }
-.blck{
-    background-color: rgb(3, 3, 22) ;
+.bg{
+    background-color: rgb(5, 5, 27);
+}
+#the{
+margin-top: 100px;
+padding-top: 50px;
 }
