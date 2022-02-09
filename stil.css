@@ -11,6 +11,7 @@ color: wheat;
 #icons{
     margin-left: 1200px;
     color: white;
+   
 }
 #wite{
     margin-left: 1200px;
@@ -23,3 +24,67 @@ color: wheat;
 margin-top: 100px;
 padding-top: 50px;
 }
+.tex{
+    text-decoration: none;
+    color: white;
+
+}
+.a{
+    text-decoration: none;
+    background-color: white;
+     padding-left: 40px;
+    padding-right: 40px;
+}.d{
+    border-radius: 30px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   padding-left: 40px;
+   padding-right: 20px;
+}
+.p{
+ margin-left: 30px;
+ margin-right: 100px;
+   border-radius: 40px;
+   padding-left: 10px;
+   padding-top:10px;
+padding-bottom:10px;
+color: dodgerblue;
+    background-color: white;
+}
+.px{
+color: dodgerblue;
+}
+.po{
+    color: dodgerblue;
+    margin-top: 50px;
+}
+.kx{
+    color: dodgerblue;
+    margin-top: 30px;
+}
+.xy{
+    margin-bottom: 80px;
+    margin-top:80px ;
+}
+.ax{
+    text-decoration: none;
+    color: white;
+
+}
+.i{
+    background-color: rgba(245, 222, 179, 0.13);
+    border-radius: 100px;
+    padding: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
