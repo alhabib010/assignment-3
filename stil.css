@@ -23,11 +23,12 @@ color: wheat;
 #the{
 margin-top: 100px;
 padding-top: 50px;
+
 }
 .tex{
     text-decoration: none;
     color: white;
-
+padding-bottom: 50px;
 }
 .a{
     text-decoration: none;
@@ -76,15 +77,4 @@ color: dodgerblue;
     border-radius: 100px;
     padding: 3px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
